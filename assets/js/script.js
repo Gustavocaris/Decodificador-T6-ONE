@@ -26,7 +26,7 @@ addEventListener('click', function (event) {
     const imgSearch = document.getElementById('img__search');
 
     if (event.target == textTyped ) {
-        alert.setAttribute('style', 'color: rgb(51, 255, 0)');
+        alert.setAttribute('style', 'color: rgb(255, 0, 0)');
         statusDecode.setAttribute('style', 'color: rgb(51, 255, 0)');
         imgSearch.style.display='block';        
         statusDecode.innerHTML= 'Nenhuma mensagem encontrada';

@@ -61,24 +61,6 @@ body {
 }
 
 
-
-.header, h2 {
-    
-    text-align: center;
-    width: 100rem;
-    padding: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    font-size: 24px;
-    color: red;
-    font-weight: 700;  
-}
-
-
-
-
-
 .main, .container_main {
     grid-area: main;
     display: flex;
@@ -230,6 +212,27 @@ body {
     color: var(--background);    
 }
 
+.footer, .gustavodev {
+    color: rgb(51, 255, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.25rem;
+}
+
+.footer, .gu {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.25rem;
+
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.footer, .gu:hover {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+
+
+
 .social__mida {
     display: flex;
     justify-content: center;
@@ -244,6 +247,7 @@ body {
 
 .fa-brands:hover {
     transform: scale(1.5);
+    color: red;
 }
 
 @media (min-width:768px) {
