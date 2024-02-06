@@ -33,7 +33,11 @@ body {
     "main   main   main"
     "footer footer footer"; 
 }
-.header, .decode__header {    
+
+
+.header, .header__logoalura {
+    width: 8rem;
+    height: 5rem;
     grid-area: header;
     padding: 20px;
     display: flex;
@@ -44,14 +48,35 @@ body {
     font-weight: 700;  
 }
 
-.header, .header__logoalura {
-    width: 8rem;
-    height: 5rem;
-}
-
 .header, .header__logooracle {
     width: 12rem;
+    grid-area: header;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: .6rem;
+    color: var(--color-primary);
+    font-weight: 700;  
 }
+
+
+
+.header, h2 {
+    
+    text-align: center;
+    width: 100rem;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 24px;
+    color: red;
+    font-weight: 700;  
+}
+
+
+
 
 
 .main, .container_main {
@@ -261,3 +286,5 @@ body {
         
     }
 }
+
+
