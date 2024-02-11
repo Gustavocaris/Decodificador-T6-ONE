@@ -6,11 +6,10 @@
   <a href="#-layout">Layout '📐'</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
- 
 <br>
 
 ## 💻 Sobre o Projeto:
-<p> ➞Construir uma aplicação que criptografa e descriptografa textos com JavaScript contendo as seguintes chaves:</p>
+*<p> ➞Construir uma aplicação que criptografa e descriptografa textos com `JavaScript` contendo as seguintes chaves:</p>
 <ul>
   <li>A letra "e" é convertida para "enter"</li>
   <li>A letra "i" é convertida para "imes"</li>
@@ -29,8 +28,8 @@
 
   - A página deve ter campos para inserção do texto a ser criptografado ou descriptografado, e a pessoa usuária deve poder escolher entre as duas opções
   - O resultado deve ser exibido na tela.
-<p>
-    Deploy: https://gustavocaris.github.io/Decodificador-T6-ONE/
+*<p>
+  `Deploy:` https://gustavocaris.github.io/Decodificador-T6-ONE/
 </p>
 
 <hr>
@@ -44,7 +43,7 @@ Esse repositório contém->
 
 
 ## 📸 Layout
-<h4>OBS: A frase "Verificando banco de dados" é apenas para adicionar um efeito.</h4>
+*<h4>`OBS: A frase "Verificando banco de dados" é apenas para adicionar um efeito.`</h4>
 <h4 align="center"> imagem do projeto</h4> 
 <div align="center">
 <img src="https://github.com/Gustavocaris/Decodificador-T6-ONE/assets/149839159/88f67f48-c64b-43a5-a905-157cda6b520b" width="700px" />
